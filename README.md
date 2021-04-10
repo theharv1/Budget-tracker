@@ -1,8 +1,8 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
-# Fitness tracker app
+# Online/offline budget tracker
 
 ## Deployment
-* https://whispering-temple-13783.herokuapp.com/
+* https://obscure-basin-51217.herokuapp.com/
 
 ## Installation 
 * to run this app simply do an npm i in your command window
